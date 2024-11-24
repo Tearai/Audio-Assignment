@@ -1,0 +1,1201 @@
+<REAPER_PROJECT 0.1 "7.27/win64" 1732478369
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 120
+  ZOOM 6.49054715188745 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0
+    SPLDEF 3 440 "" 0
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {7A823541-B8D2-4C51-9868-4A9D238728C9}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {ECBE114D-6B0E-4A2F-B893-E5C2D64F046B}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {B33CA9BF-38ED-4099-8339-EBBCDA622307}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B33CA9BF-38ED-4099-8339-EBBCDA622307}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 51.20593611779623
+      SNAPOFFS 0
+      LENGTH 3.88888888888889
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.01 0 2 0 1 1
+      FADEOUT 5 0.01 0 5 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9CDF0E5B-7442-4290-BC12-439211894CE2}
+      IID 2
+      NAME "GPS.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5EE2CE99-E9CA-416A-B849-EB5387411107}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\scene 1 v2\scene 1 v2\Media\GPS [chan 1] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 58.19646924885456
+      SNAPOFFS 0
+      LENGTH 2.03703703703705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 3 0.01 0 3 0 1 1
+      MUTE 0 0
+      SEL 0
+      IGUID {431675C1-2178-454F-A068-1D140462A573}
+      IID 2
+      NAME "GPS.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 6.94791666666666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9D547D29-3603-4841-B03D-3FBFB8B77A01}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\scene 1 v2\scene 1 v2\Media\GPS [chan 1] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 64
+      SNAPOFFS 0
+      LENGTH 1.44097222222221
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 3 0.01 0 3 0 1 1
+      MUTE 0 0
+      SEL 0
+      IGUID {3C23905A-0490-479B-91EF-9EEF0F5E2458}
+      IID 2
+      NAME "GPS.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 10.55902777777778
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6649DE2F-FBC3-4930-BA45-744A79A3513F}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\scene 1 v2\scene 1 v2\Media\GPS [chan 1] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 70.5
+      SNAPOFFS 0
+      LENGTH 1.44097222222224
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 3 0.01 0 3 0 1 1
+      MUTE 0 0
+      SEL 0
+      IGUID {D6546C0B-46F3-4095-A604-3C3730BAD9EE}
+      IID 2
+      NAME "GPS.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 10.55902777777778
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {13B198B8-AE7B-433B-90F6-7C8F612A43B2}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\scene 1 v2\scene 1 v2\Media\GPS [chan 1] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 78.29406388220377
+      SNAPOFFS 0
+      LENGTH 2.2059361178398
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 2 2.2059361178398 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {95AEA190-293B-47D5-ABF4-62B335E3E7FB}
+      IID 2
+      NAME "GPS.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 10.55902777777778
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {69A522D2-686A-4B51-A94A-09506E04237E}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\scene 1 v2\scene 1 v2\Media\GPS [chan 1] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 130
+      SNAPOFFS 0
+      LENGTH 0.75907610039511
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {6B985AD1-1DB4-441E-9CC8-D457CA4AE891}
+      IID 3
+      NAME "STE-000.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 8.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3A246D2-EF04-4CF6-AAA6-695A3C31EC11}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\STE-000 [chan 2] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 134.5
+      SNAPOFFS 0
+      LENGTH 3.79728073028147
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {669255B9-EDBE-4708-A4C0-F15E32DEF6BD}
+      IID 113
+      NAME STE-000-glued-01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BB335988-1EE4-4C2D-830B-9676668FACFE}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\STE-000-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 183
+      SNAPOFFS 0
+      LENGTH 6.5993206174191
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {BFDA6026-C1B1-4D26-8943-5A36F4F716F6}
+      IID 3
+      NAME "STE-000.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 61.69545824788755
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00416564-6D99-435F-AB79-9C7E9F42C229}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\STE-000 [chan 2] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 192
+      SNAPOFFS 0
+      LENGTH 9.54434453780934
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {7A9D11D0-9C7B-4439-90B5-C08831392B59}
+      IID 3
+      NAME "STE-000.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 74.5394630944065
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F39102B6-F700-4583-A2FC-75354DB6C3A2}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\STE-000 [chan 2] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 217.5
+      SNAPOFFS 0
+      LENGTH 4.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {9A64A00D-3091-4A7F-B7B6-AC4CDC42C7B6}
+      IID 3
+      NAME "STE-000.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 97.48984088625278
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {383CFC19-52FE-4740-8493-EA25C551E049}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\STE-000 [chan 2] 002.wav"
+      >
+    >
+  >
+  <TRACK {AA7730C8-6EFB-4F28-9B0E-A7AC85829123}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AA7730C8-6EFB-4F28-9B0E-A7AC85829123}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 66
+      SNAPOFFS 0
+      LENGTH 3.29704775664888
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 3 0.01 0 3 0 1 1
+      MUTE 0 0
+      SEL 0
+      IGUID {FEC7BD83-7360-42E9-B186-A5957A5341EE}
+      IID 15
+      NAME "what_comeon.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.15233568371029
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {80AA1E28-3F03-42B1-B17E-19700A8FC7DA}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\scene 1 v2\scene 1 v2\Media\what_comeon [chan 1].wav"
+      >
+    >
+    <ITEM
+      POSITION 72
+      SNAPOFFS 0
+      LENGTH 5.49507959441479
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 3 0.01 0 3 0 1 1
+      MUTE 0 0
+      SEL 0
+      IGUID {A017EDD3-FCB7-4E3D-90A5-505A75C34F76}
+      IID 15
+      NAME "what_comeon.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.5483993592421
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {460AFC1B-DA4F-4F7B-925C-A9259BC09CAD}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\scene 1 v2\scene 1 v2\Media\what_comeon [chan 1].wav"
+      >
+    >
+    <ITEM
+      POSITION 150
+      SNAPOFFS 0
+      LENGTH 8.55753023987756
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {C7D05302-7EE8-4E5A-AA02-92DCEB2A9E6E}
+      IID 7
+      NAME "STE-001.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 31.01522933584814
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {10E4C120-4A70-48B8-B188-5C131A55893A}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\STE-001 [chan 2] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 165
+      SNAPOFFS 0
+      LENGTH 7.33943134086792
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {54107D93-84F2-4EA5-8358-D796DE534116}
+      IID 7
+      NAME "STE-001.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 43.14996140572858
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {985CBC87-80DF-488F-A75C-32CA18EADC10}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\STE-001 [chan 2] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 175.5
+      SNAPOFFS 0
+      LENGTH 4.30189358004657
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {A503866D-40C5-4AFB-B073-4310C96F534A}
+      IID 7
+      NAME "STE-001.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 53.66570126806461
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {53523FD6-EC0D-4CDD-B5D3-671043C27B7E}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\STE-001 [chan 2] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 205.5
+      SNAPOFFS 0
+      LENGTH 9.34887815704931
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {1B38E724-F93B-4E44-B624-2E84C4DFD954}
+      IID 62
+      NAME STE-001-glued.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7577C14C-1854-4A56-B389-DC2FCAF762FA}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\STE-001-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 225.5
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {9DE718B5-B18B-4385-B4F4-A19B0CE25515}
+      IID 7
+      NAME "STE-001.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 110.43781357989135
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D45390BD-E41C-4498-B2DE-CC64B947E566}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\STE-001 [chan 2] 002.wav"
+      >
+    >
+  >
+  <TRACK {5ABA2987-E2B8-4682-958A-BF45D251E5B8}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5ABA2987-E2B8-4682-958A-BF45D251E5B8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 55.5
+      SNAPOFFS 0
+      LENGTH 4.70593611783979
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 3 1.83247635103537 0 3 0 -1 -1
+      FADEOUT 5 1.58479172485878 0 5 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3CB940D2-2ACA-4938-9B41-0C7E59838528}
+      IID 22
+      NAME "indicator.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 14.81722279040779
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {002C3B9D-A1E9-439A-9F19-749A76BD0D43}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\scene 1 v2\scene 1 v2\Media\indicator [chan 1].wav"
+      >
+    >
+    <ITEM
+      POSITION 142
+      SNAPOFFS 0
+      LENGTH 5.7461940276348
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {942D58DF-A8D4-4209-B9A4-C5C013EEBACF}
+      IID 16
+      NAME "STE-002.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.82709088222083
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A4EB09A-7E78-4D70-9471-1498888A04BE}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\STE-002 [chan 2] 002.wav"
+      >
+    >
+  >
+  <TRACK {B6DC78AA-E0D9-4D38-A182-67670DE820B2}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B6DC78AA-E0D9-4D38-A182-67670DE820B2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 60
+      SNAPOFFS 0
+      LENGTH 21.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 3.11666246466754 0 2 0 1 1
+      FADEOUT 1 0.82224952567731 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9EB57CFF-9F4A-4DC2-8E5C-7150A834E9D2}
+      IID 40
+      NAME creepy_howling.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 33.64602083333333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C0A48AF4-C245-4BF3-B9DC-BDC0F2F98317}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\scene 1 v2\scene 1 v2\Media\creepy_howling.wav"
+      >
+    >
+    <ITEM
+      POSITION 88
+      SNAPOFFS 0
+      LENGTH 15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 1.22784615904649 0 2 0 1 1
+      FADEOUT 2 0.62543476998761 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {26D268E8-484B-464C-9BCF-DBB86623CA3D}
+      IID 40
+      NAME creepy_howling.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {81DAC6D2-8A92-45E6-AD2C-4AE11B780B82}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\scene 1 v2\scene 1 v2\Media\creepy_howling.wav"
+      >
+    >
+    <ITEM
+      POSITION 131
+      SNAPOFFS 0
+      LENGTH 3.2598839546022
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {682F097C-565C-4BA0-B813-1003683325F5}
+      IID 82
+      NAME STE-000-glued.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {05D940C7-C730-4839-A0E5-7EE47618D135}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\STE-000-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 138.5
+      SNAPOFFS 0
+      LENGTH 2.96939924577626
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {BB16D17B-7C8D-4A6D-AD75-E7D39E61D3DD}
+      IID 82
+      NAME STE-000-glued.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.16361415983844
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {52DB27DF-FEA5-482E-90DF-7122F3FA0511}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\STE-000-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 148
+      SNAPOFFS 0
+      LENGTH 1.53311374102577
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {1328B807-1745-4D07-BA5F-05DB9E431BB7}
+      IID 82
+      NAME STE-000-glued.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 16.2510056548733
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {48ADF1BE-DFDC-4043-A7CB-3161AED3EA76}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\STE-000-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 172.5
+      SNAPOFFS 0
+      LENGTH 2.56594826129577
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {881C5DF6-0D20-47F6-92A7-621A112EDBB9}
+      IID 82
+      NAME STE-000-glued.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 67.50541872327211
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E74A0DAB-D458-4CB3-B12A-46BC7C563C22}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\STE-000-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 190
+      SNAPOFFS 0
+      LENGTH 1.53311374102577
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {0DEDF317-1FBD-44FF-A47F-DA3474BCDFFF}
+      IID 82
+      NAME STE-000-glued.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 81.65847925884698
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD54AB69-39EE-4082-868D-1EF8E3C37D0C}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\STE-000-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 202
+      SNAPOFFS 0
+      LENGTH 3.0823655214308
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {2B6D9C2A-1D05-4E07-B8A9-65C0D9ACECD8}
+      IID 82
+      NAME STE-000-glued.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 104.60677125609607
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E103C5FF-9D5C-4128-982D-41CECED256BC}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\STE-000-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 222.5
+      SNAPOFFS 0
+      LENGTH 2.53367218253737
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {379A8572-85FD-4704-B926-5D64F7B11ABC}
+      IID 82
+      NAME STE-000-glued.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 131.896195846355
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E9D641A-1695-4C38-AD48-446AB7FDD042}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\STE-000-glued.wav"
+      >
+    >
+  >
+  <TRACK {DDF19E44-0772-4AD6-9785-D6B42E69C203}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DDF19E44-0772-4AD6-9785-D6B42E69C203}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      EGUID {43709ED7-8B7D-4A13-860F-AF5AA7ADE0E9}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 5.4999 1 0
+      PT 5.5 1 0
+      PT 16.5 0.14125375 0
+      PT 38 0.14125375 0
+      PT 38.0001 1 0
+    >
+    <ITEM
+      POSITION 5.5
+      SNAPOFFS 0
+      LENGTH 32.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 2 0 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {B52B45C2-4D3F-4D39-9C7F-EED2DD0144F2}
+      IID 27
+      NAME city-slums-ambience-at-night-55182.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {87CAC636-6040-44F4-9788-4EBF12FB7875}
+      <SOURCE MP3
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\scene 1 v2\scene 1 v2\Media\city-slums-ambience-at-night-55182.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 159
+      SNAPOFFS 0
+      LENGTH 5.43851927079672
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {32080F78-377F-4F9B-99E6-C393BB6A30E3}
+      IID 75
+      NAME "STE-001.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 40.71044572843757
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {87871558-9447-4C80-8BEB-5626C9D3FF41}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\STE-001 [chan 1] 003.wav"
+      >
+    >
+    <ITEM
+      POSITION 180
+      SNAPOFFS 0
+      LENGTH 2.46912002502049
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {477C99F8-0F3E-4D02-994C-832C3AE01C09}
+      IID 75
+      NAME "STE-001.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 52.08776349078681
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {968622D7-5CE0-49FF-BD98-CA14B41EA005}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\STE-001 [chan 1] 003.wav"
+      >
+    >
+    <ITEM
+      POSITION 215
+      SNAPOFFS 0
+      LENGTH 2.34001570998669
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {34D9728E-DF4D-4CBB-BAE5-2191391829BC}
+      IID 75
+      NAME "STE-001.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 65.15957538795399
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9EB4D2E5-5795-4CAD-ADE0-333A467AA638}
+      <SOURCE WAVE
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\STE-001 [chan 1] 003.wav"
+      >
+    >
+  >
+  <TRACK {6C6DE508-DDCC-4B60-84CD-EE9341D5E591}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6C6DE508-DDCC-4B60-84CD-EE9341D5E591}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      EGUID {08364736-06DA-42A4-A447-2016E207142F}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 45.9999 1 0
+      PT 46 0.03611103 0
+      PT 51.02352124 0.00836566 0
+      PT 59.55481624 0.00538112 0
+      PT 61.68097235 0.01473814 0
+      PT 72.52911405 0.00540132 0
+      PT 79.5005 0.03354627 0
+      PT 80.5 0.03222336 0
+      PT 80.5001 1 0
+    >
+    <ITEM
+      POSITION 46
+      SNAPOFFS 0
+      LENGTH 34.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 2.74987317794908 0 2 0 1 1
+      FADEOUT 2 6.43218965439728 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {24BDB11B-8FEC-4852-99C2-DDB9BD7AF9AB}
+      IID 28
+      NAME road-noise-1-72297.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C65A20F3-DC9B-4396-ADE6-5CCDA236A259}
+      <SOURCE MP3
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\scene 1 v2\scene 1 v2\Media\road-noise-1-72297.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 126.5
+      SNAPOFFS 0
+      LENGTH 4.28514739229024
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 2.2030808884123 0 1 0 0 0
+      FADEOUT 1 1.93347604083431 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {3A9FB002-8E8B-4925-BF94-C47AED5408BE}
+      IID 134
+      NAME ring-phone-190265.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7017C4F1-5470-4605-AC18-57B516F5B61A}
+      <SOURCE MP3
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\ring-phone-190265.mp3" 1
+      >
+    >
+  >
+  <TRACK {3E148404-AE57-4226-8D82-ACD066F8492B}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3E148404-AE57-4226-8D82-ACD066F8492B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 5.5
+      SNAPOFFS 0
+      LENGTH 7.53795833333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 6.537 3.03795833333333 2 1 0 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {CEA66935-E187-456B-9783-082A69AABF81}
+      IID 23
+      NAME concrete-footsteps-1-6265.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32D45DB8-61C1-4BBE-A055-6915C76A3A41}
+      <SOURCE MP3
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\scene 1 v2\scene 1 v2\Media\concrete-footsteps-1-6265.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 10
+      SNAPOFFS 0
+      LENGTH 8.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 3.03795833333333 1 1 0 0
+      FADEOUT 1.1 0 1 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EBE435B5-372A-4525-BAB7-8E18E71231A8}
+      IID 24
+      NAME car-door-opening-and-closing-62604.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6708C4F7-014E-4873-BD42-4A183A63CEFA}
+      <SOURCE MP3
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\scene 1 v2\scene 1 v2\Media\car-door-opening-and-closing-62604.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 17.5
+      SNAPOFFS 0
+      LENGTH 30.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 1 1 1 0 0
+      FADEOUT 2 3.65666109922587 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {624E581F-5E59-4F30-9C2E-8916C0920B48}
+      IID 25
+      NAME interior-car-start-and-departure-16666.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C146A561-386D-4086-99F5-27042A3B50EA}
+      <SOURCE MP3
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\scene 1 v2\scene 1 v2\Media\interior-car-start-and-departure-16666.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 226
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 2 2.51956506511317 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 1
+      IGUID {D78E2D0A-D9E3-457C-934A-D894B404A393}
+      IID 137
+      NAME interior-car-start-and-departure-16666.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 24
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {35116587-954B-4192-AE2B-920219346921}
+      <SOURCE MP3
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\interior-car-start-and-departure-16666.mp3" 1
+      >
+    >
+  >
+  <TRACK {2F41A6E6-F5E4-4BE1-9765-04C1934DF53A}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2F41A6E6-F5E4-4BE1-9765-04C1934DF53A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 122
+      SNAPOFFS 0
+      LENGTH 112
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 4.77563311599654 0 1 0 0 0
+      FADEOUT 2 2.52184883974891 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 1
+      IGUID {B202A4E7-39F9-400C-B515-D373876D93AF}
+      IID 135
+      NAME ambience-wind-blowing-through-trees-01-186986.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A44CCE19-878A-4DFD-B978-A83AF167DF38}
+      <SOURCE MP3
+        FILE "C:\Users\Aaron\Documents\GitHub\Audio-Assignment\Scene 2\Media\ambience-wind-blowing-through-trees-01-186986.mp3" 1
+      >
+    >
+  >
+>
