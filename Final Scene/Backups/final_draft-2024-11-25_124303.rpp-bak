@@ -1,0 +1,645 @@
+<REAPER_PROJECT 0.1 "7.26/win64" 1732538583
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 97.5
+  ZOOM 7.11003817127933 0 0
+  VZOOMEX 0 141
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0
+    SPLDEF 3 440 "" 0
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {7A823541-B8D2-4C51-9868-4A9D238728C9}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {ECBE114D-6B0E-4A2F-B893-E5C2D64F046B}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {11F1478A-B095-45B8-B6FC-810DA0743BC1}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {11F1478A-B095-45B8-B6FC-810DA0743BC1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 45.70593611779623
+      SNAPOFFS 0
+      LENGTH 3.88888888888889
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.01 0 2 0 1 1
+      FADEOUT 5 0.01 0 5 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {B76B5DE5-1D0D-4337-91D4-8E0AEB026A04}
+      IID 2
+      NAME "GPS.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {53380B77-E826-4EC7-9219-E1D068961F49}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\GPS [chan 1] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 52.69646924885456
+      SNAPOFFS 0
+      LENGTH 2.03703703703705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 3 0.01 0 3 0 1 1
+      MUTE 0 0
+      SEL 1
+      IGUID {6F307ED0-1063-4208-84AC-14AAAD060341}
+      IID 2
+      NAME "GPS.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 6.94791666666666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C4614570-20B2-4CCB-BEF7-AEB64D1C68DD}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\GPS [chan 1] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 58.5
+      SNAPOFFS 0
+      LENGTH 1.44097222222222
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 3 0.01 0 3 0 1 1
+      MUTE 0 0
+      SEL 1
+      IGUID {9BD31A79-C589-4DDD-94A2-E9CEB01D0AC8}
+      IID 2
+      NAME "GPS.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 10.55902777777778
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6CBA44D4-999F-41B0-A5E4-E38A13678077}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\GPS [chan 1] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 65
+      SNAPOFFS 0
+      LENGTH 1.44097222222224
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 3 0.01 0 3 0 1 1
+      MUTE 0 0
+      SEL 1
+      IGUID {4E9007D7-CC9F-4B78-9F42-F4FD85E44F45}
+      IID 2
+      NAME "GPS.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 10.55902777777778
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D89A51D9-881F-4937-8DC4-396A2DDDC8EC}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\GPS [chan 1] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 72.79406388220377
+      SNAPOFFS 0
+      LENGTH 2.2059361178398
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 2 2.2059361178398 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 1
+      IGUID {8E80089F-83C4-43B7-BAAA-28C15A64A8FC}
+      IID 2
+      NAME "GPS.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 10.55902777777778
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2BAD248-A0DC-451C-ACD4-C74421B70E71}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\GPS [chan 1] 002.wav"
+      >
+    >
+  >
+  <TRACK {128D4469-0245-4A17-B982-1D983138C504}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {128D4469-0245-4A17-B982-1D983138C504}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 60.5
+      SNAPOFFS 0
+      LENGTH 3.29704775664889
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 3 0.01 0 3 0 1 1
+      MUTE 0 0
+      SEL 1
+      IGUID {92719687-BEC3-4E95-BD68-8FE76D7B552F}
+      IID 15
+      NAME "what_comeon.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.15233568371029
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D15EED6-4367-4F2A-A572-10842C789AA9}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\what_comeon [chan 1].wav"
+      >
+    >
+    <ITEM
+      POSITION 66.5
+      SNAPOFFS 0
+      LENGTH 5.49507959441479
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 3 0.01 0 3 0 1 1
+      MUTE 0 0
+      SEL 1
+      IGUID {AFC90145-2FAC-4554-9F4F-D1072277BE9E}
+      IID 15
+      NAME "what_comeon.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.5483993592421
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4127DCE8-086E-4BA8-AE28-982C81C5206A}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\what_comeon [chan 1].wav"
+      >
+    >
+  >
+  <TRACK {E6B6E22B-1261-4122-8885-778250D38F31}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E6B6E22B-1261-4122-8885-778250D38F31}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 50
+      SNAPOFFS 0
+      LENGTH 4.70593611783979
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 3 1.83247635103537 0 3 0 -1 -1
+      FADEOUT 5 1.58479172485878 0 5 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {24165FF5-7702-474A-8435-B4B41FE35114}
+      IID 22
+      NAME "indicator.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 14.81722279040779
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {885AEB60-63BE-45BF-B205-EA351441D9A4}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\indicator [chan 1].wav"
+      >
+    >
+  >
+  <TRACK {117AA6A6-992E-4BAB-9A89-14B8C75D2383}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {117AA6A6-992E-4BAB-9A89-14B8C75D2383}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 54.5
+      SNAPOFFS 0
+      LENGTH 21.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 3.11666246466754 0 2 0 1 1
+      FADEOUT 1 0.82224952567731 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {E72BB55E-B4C0-41EE-812B-104207F2F467}
+      IID 40
+      NAME creepy_howling.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 33.64602083333333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC1FD914-12D5-4F3D-ACB7-0CA839E1CB26}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\creepy_howling.wav"
+      >
+    >
+    <ITEM
+      POSITION 82.5
+      SNAPOFFS 0
+      LENGTH 15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 1.22784615904649 0 2 0 1 1
+      FADEOUT 2 0.62543476998761 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 1
+      IGUID {2E0674B1-BBFA-4319-B817-7E96F6CC85A0}
+      IID 40
+      NAME creepy_howling.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {20851391-578C-4962-B70F-79FA2113FDE9}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\creepy_howling.wav"
+      >
+    >
+  >
+  <TRACK {F34085A2-23D3-40B6-90C8-533A025438B7}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F34085A2-23D3-40B6-90C8-533A025438B7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      EGUID {FE956973-C349-4CEE-A079-784665055FF1}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 11 0.14125375 0
+      PT 32.5 0.14125375 0
+      PT 32.5001 1 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 32.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 2 0 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 1
+      IGUID {F65C848F-3D51-4D7F-ABBB-953C0839A036}
+      IID 27
+      NAME city-slums-ambience-at-night-55182.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7F1D7324-E784-4EA4-9DFE-4C24F97734BB}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\city-slums-ambience-at-night-55182.mp3" 1
+      >
+    >
+  >
+  <TRACK {BEAE1B08-859F-4225-989B-FC8B4DEACC38}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BEAE1B08-859F-4225-989B-FC8B4DEACC38}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      EGUID {07347A8F-E0D0-4474-9AC8-56ACA7BD2862}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 40.4999 1 0
+      PT 40.5 0.03611103 0
+      PT 45.52352124 0.00836566 0
+      PT 54.05481624 0.00538112 0
+      PT 56.18097235 0.01473814 0
+      PT 67.02911405 0.00540132 0
+      PT 74.0005 0.03354627 0
+      PT 75 0.03222336 0
+      PT 75.0001 1 0
+    >
+    <ITEM
+      POSITION 40.5
+      SNAPOFFS 0
+      LENGTH 34.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 2.74987317794908 0 2 0 1 1
+      FADEOUT 2 6.43218965439728 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 1
+      IGUID {45A7B534-93AC-45F4-B0AA-832873D1B0CE}
+      IID 28
+      NAME road-noise-1-72297.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9CD6D048-1A46-480C-BFCB-506469FB4E9E}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\road-noise-1-72297.mp3" 1
+      >
+    >
+  >
+  <TRACK {9FCCB3C8-0689-4ACE-B830-AA9837C32B02}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9FCCB3C8-0689-4ACE-B830-AA9837C32B02}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 7.53795833333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 6.537 3.03795833333333 2 1 0 -1
+      MUTE 0 0
+      SEL 1
+      IGUID {CA08CEC0-71CE-4DC1-9098-B62C1722B73F}
+      IID 23
+      NAME concrete-footsteps-1-6265.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {113006C3-7B34-4557-9106-7E428747F32C}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\concrete-footsteps-1-6265.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 4.5
+      SNAPOFFS 0
+      LENGTH 8.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 3.03795833333333 1 1 0 0
+      FADEOUT 1.1 0 1 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {9E19C764-0048-41E4-8DDB-0C94D09E3727}
+      IID 24
+      NAME car-door-opening-and-closing-62604.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0DB8EBFD-A0AB-4BAB-A2C9-987ECB48AADE}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\car-door-opening-and-closing-62604.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 30.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 1 1 1 0 0
+      FADEOUT 2 3.65666109922587 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 1
+      IGUID {6FCA8B06-89E2-4B0E-9425-70601497AC62}
+      IID 25
+      NAME interior-car-start-and-departure-16666.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1F4D6CD-48BC-4D80-86DA-DF2A5898D4DA}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\interior-car-start-and-departure-16666.mp3" 1
+      >
+    >
+  >
+>

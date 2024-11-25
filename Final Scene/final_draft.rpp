@@ -1,0 +1,2860 @@
+<REAPER_PROJECT 0.1 "7.26/win64" 1732539201
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3455 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 221.10210996237672
+  ZOOM 4.55897956003913 151 0
+  VZOOMEX 0 1309
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0
+    SPLDEF 3 440 "" 0
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {7A823541-B8D2-4C51-9868-4A9D238728C9}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {ECBE114D-6B0E-4A2F-B893-E5C2D64F046B}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {11F1478A-B095-45B8-B6FC-810DA0743BC1}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {11F1478A-B095-45B8-B6FC-810DA0743BC1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 45.70593611779623
+      SNAPOFFS 0
+      LENGTH 3.88888888888889
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.01 0 2 0 1 1
+      FADEOUT 5 0.01 0 5 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B76B5DE5-1D0D-4337-91D4-8E0AEB026A04}
+      IID 2
+      NAME "GPS.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {53380B77-E826-4EC7-9219-E1D068961F49}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\GPS [chan 1] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 52.69646924885456
+      SNAPOFFS 0
+      LENGTH 2.03703703703705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 3 0.01 0 3 0 1 1
+      MUTE 0 0
+      SEL 0
+      IGUID {6F307ED0-1063-4208-84AC-14AAAD060341}
+      IID 2
+      NAME "GPS.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 6.94791666666666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C4614570-20B2-4CCB-BEF7-AEB64D1C68DD}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\GPS [chan 1] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 58.5
+      SNAPOFFS 0
+      LENGTH 1.44097222222222
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 3 0.01 0 3 0 1 1
+      MUTE 0 0
+      SEL 0
+      IGUID {9BD31A79-C589-4DDD-94A2-E9CEB01D0AC8}
+      IID 2
+      NAME "GPS.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 10.55902777777778
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6CBA44D4-999F-41B0-A5E4-E38A13678077}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\GPS [chan 1] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 65
+      SNAPOFFS 0
+      LENGTH 1.44097222222224
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 3 0.01 0 3 0 1 1
+      MUTE 0 0
+      SEL 0
+      IGUID {4E9007D7-CC9F-4B78-9F42-F4FD85E44F45}
+      IID 2
+      NAME "GPS.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 10.55902777777778
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D89A51D9-881F-4937-8DC4-396A2DDDC8EC}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\GPS [chan 1] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 72.79406388220377
+      SNAPOFFS 0
+      LENGTH 2.2059361178398
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 2 2.2059361178398 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {8E80089F-83C4-43B7-BAAA-28C15A64A8FC}
+      IID 2
+      NAME "GPS.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 10.55902777777778
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2BAD248-A0DC-451C-ACD4-C74421B70E71}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\GPS [chan 1] 002.wav"
+      >
+    >
+  >
+  <TRACK {128D4469-0245-4A17-B982-1D983138C504}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {128D4469-0245-4A17-B982-1D983138C504}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 60.5
+      SNAPOFFS 0
+      LENGTH 3.29704775664889
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 3 0.01 0 3 0 1 1
+      MUTE 0 0
+      SEL 0
+      IGUID {92719687-BEC3-4E95-BD68-8FE76D7B552F}
+      IID 15
+      NAME "what_comeon.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.15233568371029
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D15EED6-4367-4F2A-A572-10842C789AA9}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\what_comeon [chan 1].wav"
+      >
+    >
+    <ITEM
+      POSITION 66.5
+      SNAPOFFS 0
+      LENGTH 5.49507959441479
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 3 0.01 0 3 0 1 1
+      MUTE 0 0
+      SEL 0
+      IGUID {AFC90145-2FAC-4554-9F4F-D1072277BE9E}
+      IID 15
+      NAME "what_comeon.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.5483993592421
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4127DCE8-086E-4BA8-AE28-982C81C5206A}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\what_comeon [chan 1].wav"
+      >
+    >
+  >
+  <TRACK {E6B6E22B-1261-4122-8885-778250D38F31}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E6B6E22B-1261-4122-8885-778250D38F31}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 50
+      SNAPOFFS 0
+      LENGTH 4.70593611783979
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 3 1.83247635103537 0 3 0 -1 -1
+      FADEOUT 5 1.58479172485878 0 5 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {24165FF5-7702-474A-8435-B4B41FE35114}
+      IID 22
+      NAME "indicator.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 14.81722279040779
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {885AEB60-63BE-45BF-B205-EA351441D9A4}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\indicator [chan 1].wav"
+      >
+    >
+    <ITEM
+      POSITION 82.79743997729383
+      SNAPOFFS 0
+      LENGTH 0.75907610039511
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {13152212-0E2B-4A94-B0F0-5F23885B4990}
+      IID 3
+      NAME "STE-000.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 8.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5557F49E-BE51-4E45-AF32-0BB261148D82}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\STE-000 [chan 2] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 87.29743997729383
+      SNAPOFFS 0
+      LENGTH 3.79728073028146
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {22CFA931-125E-436F-9BDF-2131D854E517}
+      IID 113
+      NAME STE-000-glued-01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B0C2D3A7-EDD6-48E4-B650-1A7C5399C127}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\STE-000-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 135.79743997729383
+      SNAPOFFS 0
+      LENGTH 6.59932061741907
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2B3EAD4E-0EDD-4804-95C8-865E8C56B37B}
+      IID 3
+      NAME "STE-000.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 61.69545824788755
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {134FDD06-0562-4608-A481-52D11B578771}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\STE-000 [chan 2] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 144.79743997729383
+      SNAPOFFS 0
+      LENGTH 9.54434453780934
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7C7F8058-DE98-4B48-A091-833DA382ADF6}
+      IID 3
+      NAME "STE-000.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 74.5394630944065
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA13CD85-6F40-4A17-8D11-84C32FDF6515}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\STE-000 [chan 2] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 170.29743997729383
+      SNAPOFFS 0
+      LENGTH 4.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {79AA56D5-9BD3-44B4-A081-2A30E96AE907}
+      IID 3
+      NAME "STE-000.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 97.48984088625278
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FD56C538-D7DF-4954-A558-AB4CC51036B2}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\STE-000 [chan 2] 002.wav"
+      >
+    >
+  >
+  <TRACK {117AA6A6-992E-4BAB-9A89-14B8C75D2383}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {117AA6A6-992E-4BAB-9A89-14B8C75D2383}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 54.5
+      SNAPOFFS 0
+      LENGTH 21.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 3.11666246466754 0 2 0 1 1
+      FADEOUT 1 0.82224952567731 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E72BB55E-B4C0-41EE-812B-104207F2F467}
+      IID 40
+      NAME creepy_howling.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 33.64602083333333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC1FD914-12D5-4F3D-ACB7-0CA839E1CB26}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\creepy_howling.wav"
+      >
+    >
+    <ITEM
+      POSITION 102.79743997729383
+      SNAPOFFS 0
+      LENGTH 8.55753023987758
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7005D117-14B8-4816-84A3-F484ADD809FA}
+      IID 7
+      NAME "STE-001.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 31.01522933584814
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9AF55674-220F-4EBB-A629-1FB2D0397F9C}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\STE-001 [chan 2] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 117.79743997729383
+      SNAPOFFS 0
+      LENGTH 7.33943134086793
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8A5DFEC6-61B3-4664-B604-32B50A932D1B}
+      IID 7
+      NAME "STE-001.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 43.14996140572858
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0A97E85-D188-411C-8843-4D4FC61638A8}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\STE-001 [chan 2] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 128.29743997729383
+      SNAPOFFS 0
+      LENGTH 4.30189358004657
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {19663D9C-B72A-447F-A6AE-F3679F420270}
+      IID 7
+      NAME "STE-001.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 53.66570126806461
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C43C2B77-1F07-44E3-88E5-0DA84BFA31F0}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\STE-001 [chan 2] 002.wav"
+      >
+    >
+    <ITEM
+      POSITION 158.29743997729383
+      SNAPOFFS 0
+      LENGTH 9.34887815704931
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9394F81B-7D42-4537-A37A-C47CBBA9F340}
+      IID 62
+      NAME STE-001-glued.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {43FE57EE-1002-440B-98C7-55AED8C66010}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\STE-001-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 178.29743997729383
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {99A25616-5C92-44BF-9B95-6CC9270561CE}
+      IID 7
+      NAME "STE-001.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 110.43781357989135
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46598DE4-A89A-4D98-9261-7404F27B1C90}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\STE-001 [chan 2] 002.wav"
+      >
+    >
+  >
+  <TRACK {F34085A2-23D3-40B6-90C8-533A025438B7}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F34085A2-23D3-40B6-90C8-533A025438B7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      EGUID {FE956973-C349-4CEE-A079-784665055FF1}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 11 0.14125375 0
+      PT 32.5 0.14125375 0
+      PT 32.5001 1 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 32.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 2 0 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {F65C848F-3D51-4D7F-ABBB-953C0839A036}
+      IID 27
+      NAME city-slums-ambience-at-night-55182.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7F1D7324-E784-4EA4-9DFE-4C24F97734BB}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\city-slums-ambience-at-night-55182.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 94.79743997729383
+      SNAPOFFS 0
+      LENGTH 5.7461940276348
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CA1CC9F8-D966-4504-B928-53B54BCCD541}
+      IID 16
+      NAME "STE-002.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.82709088222083
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {81B02E48-3EF9-4887-B974-BF9EB98DBD1E}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\STE-002 [chan 2] 002.wav"
+      >
+    >
+  >
+  <TRACK {BEAE1B08-859F-4225-989B-FC8B4DEACC38}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BEAE1B08-859F-4225-989B-FC8B4DEACC38}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      EGUID {07347A8F-E0D0-4474-9AC8-56ACA7BD2862}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 40.4999 1 0
+      PT 40.5 0.03611103 0
+      PT 45.52352124 0.00836566 0
+      PT 54.05481624 0.00538112 0
+      PT 56.18097235 0.01473814 0
+      PT 67.02911405 0.00540132 0
+      PT 74.0005 0.03354627 0
+      PT 75 0.03222336 0
+      PT 75.0001 1 0
+    >
+    <ITEM
+      POSITION 40.5
+      SNAPOFFS 0
+      LENGTH 34.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 2.74987317794908 0 2 0 1 1
+      FADEOUT 2 6.43218965439728 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {45A7B534-93AC-45F4-B0AA-832873D1B0CE}
+      IID 28
+      NAME road-noise-1-72297.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9CD6D048-1A46-480C-BFCB-506469FB4E9E}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\road-noise-1-72297.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 83.79743997729383
+      SNAPOFFS 0
+      LENGTH 3.25988395460219
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AF458027-4EAF-4A37-BB71-65171A04B83B}
+      IID 82
+      NAME STE-000-glued.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B42CF546-0B1B-450B-8AAD-A0B5DD368F83}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\STE-000-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 91.29743997729383
+      SNAPOFFS 0
+      LENGTH 2.96939924577624
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2CBCCDDF-E797-4012-9563-D1632F45CF06}
+      IID 82
+      NAME STE-000-glued.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.16361415983844
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C85959D2-0175-4441-8568-C692E3AB3865}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\STE-000-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 100.79743997729383
+      SNAPOFFS 0
+      LENGTH 1.53311374102579
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B01145C1-3602-4CF3-8A60-814141EE7F13}
+      IID 82
+      NAME STE-000-glued.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 16.2510056548733
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5A4B40BD-C429-4C46-9149-ABF56317D3EF}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\STE-000-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 125.29743997729383
+      SNAPOFFS 0
+      LENGTH 2.56594826129579
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B1DB52C3-E7FF-44B9-93B7-AE1EA90770FC}
+      IID 82
+      NAME STE-000-glued.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 67.50541872327211
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F614937A-CBB3-4DE1-9436-7F876D5EFA46}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\STE-000-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 142.79743997729383
+      SNAPOFFS 0
+      LENGTH 1.53311374102577
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6474BC2E-A6EF-4450-A249-E18D843DA9F1}
+      IID 82
+      NAME STE-000-glued.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 81.65847925884698
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB854781-E08C-4DD7-A9BC-9B10CE9D137F}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\STE-000-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 154.79743997729383
+      SNAPOFFS 0
+      LENGTH 3.0823655214308
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {61CF3810-B190-40B2-8ADA-CEA4518D0074}
+      IID 82
+      NAME STE-000-glued.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 104.60677125609607
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D64BEA27-BA5E-4D38-8657-5A554DA4A944}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\STE-000-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 175.29743997729383
+      SNAPOFFS 0
+      LENGTH 2.53367218253737
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B50542BF-1F26-401E-92D1-F02788E43B0F}
+      IID 82
+      NAME STE-000-glued.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 131.896195846355
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {69FAFAFD-3DFB-4D7D-83DA-5BF5888947DC}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\STE-000-glued.wav"
+      >
+    >
+  >
+  <TRACK {9FCCB3C8-0689-4ACE-B830-AA9837C32B02}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9FCCB3C8-0689-4ACE-B830-AA9837C32B02}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 7.53795833333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 6.537 3.03795833333333 2 1 0 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {CA08CEC0-71CE-4DC1-9098-B62C1722B73F}
+      IID 23
+      NAME concrete-footsteps-1-6265.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {113006C3-7B34-4557-9106-7E428747F32C}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\concrete-footsteps-1-6265.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 4.5
+      SNAPOFFS 0
+      LENGTH 8.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 3.03795833333333 1 1 0 0
+      FADEOUT 1.1 0 1 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9E19C764-0048-41E4-8DDB-0C94D09E3727}
+      IID 24
+      NAME car-door-opening-and-closing-62604.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0DB8EBFD-A0AB-4BAB-A2C9-987ECB48AADE}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\car-door-opening-and-closing-62604.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 30.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 1 1 1 0 0
+      FADEOUT 2 3.65666109922587 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {6FCA8B06-89E2-4B0E-9425-70601497AC62}
+      IID 25
+      NAME interior-car-start-and-departure-16666.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1F4D6CD-48BC-4D80-86DA-DF2A5898D4DA}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\scene 1 v2\scene 1 v2\Media\interior-car-start-and-departure-16666.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 111.79743997729383
+      SNAPOFFS 0
+      LENGTH 5.43851927079672
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4C538C52-AFDE-4A69-87E1-FFEFFC30455D}
+      IID 75
+      NAME "STE-001.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 40.71044572843757
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9ACEC051-E843-41C4-A543-33EBA059C3A3}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\STE-001 [chan 1] 003.wav"
+      >
+    >
+    <ITEM
+      POSITION 132.79743997729383
+      SNAPOFFS 0
+      LENGTH 2.46912002502049
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {42BDFA87-F693-4445-8361-813AFF715A93}
+      IID 75
+      NAME "STE-001.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 52.08776349078681
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {68891B4B-D5E8-4B2C-8855-2BDB4B9FDF3C}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\STE-001 [chan 1] 003.wav"
+      >
+    >
+    <ITEM
+      POSITION 167.79743997729383
+      SNAPOFFS 0
+      LENGTH 2.34001570998669
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0A549A30-E365-4A9F-9759-1B7121BF2B53}
+      IID 75
+      NAME "STE-001.wav [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 65.15957538795399
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27FEA7AF-83D1-42FD-95CE-6E47CF81B5FD}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\STE-001 [chan 1] 003.wav"
+      >
+    >
+  >
+  <TRACK {AD6CE938-CAA6-401E-9166-7C00FFB09755}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AD6CE938-CAA6-401E-9166-7C00FFB09755}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 79.29743997729383
+      SNAPOFFS 0
+      LENGTH 4.28514739229026
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 2.20308088841232 0 1 0 0 0
+      FADEOUT 1 1.93347604083432 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9AFCE9FF-9BBE-4FBD-833E-8FEBF9BE52DF}
+      IID 134
+      NAME ring-phone-190265.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E9800AA6-C00F-4840-BEC2-98CB2324890C}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\ring-phone-190265.mp3" 1
+      >
+    >
+  >
+  <TRACK {C27A6CA8-0F21-4BA1-B9CD-795F21B1FA85}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C27A6CA8-0F21-4BA1-B9CD-795F21B1FA85}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 178.79743997729383
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 2 2.51956506511317 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {F2A425C9-4145-4DD3-BF49-684F52A1024A}
+      IID 137
+      NAME interior-car-start-and-departure-16666.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 24
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {43422AA6-520B-4607-9FD9-0D3DF1AD98E4}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\interior-car-start-and-departure-16666.mp3" 1
+      >
+    >
+  >
+  <TRACK {A21A3771-D23A-450C-966A-ADE40C35204B}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A21A3771-D23A-450C-966A-ADE40C35204B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      EGUID {D507B6FD-0BD6-4D6E-BFA6-4FE6EC74E52B}
+      ACT 0 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 202.7397975 1 0
+      PT 202.7398975 0.61520391 0
+      PT 206.77242697 0.50502087 0
+      PT 206.77252697 1 0
+      PT 209.16638535 1 0
+      PT 209.16648535 0.44767208 0
+      PT 211.50053952 0.39696708 0
+      PT 211.50063952 1 0
+      PT 220.42396133 1 0
+      PT 220.42406133 0.24211743 0
+      PT 221.69323625 0.21379621 0
+      PT 222.01560693 0.21379621 0
+      PT 222.01570693 1 0
+    >
+    <ITEM
+      POSITION 74.79743997729383
+      SNAPOFFS 0
+      LENGTH 112
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 4.77563311599654 0 1 0 0 0
+      FADEOUT 2 2.52184883974891 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {CE96D57A-6B24-475F-9D8E-EBE4FD0B1F33}
+      IID 135
+      NAME ambience-wind-blowing-through-trees-01-186986.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1F6B0862-6C2B-47A2-8CA2-7F9713E152AD}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 2\Media\ambience-wind-blowing-through-trees-01-186986.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 202.73989749781322
+      SNAPOFFS 0
+      LENGTH 4.03252947482733
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.01 0 2 0 1 1
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9A984A98-E647-49F8-AC7F-0A9D2D12E1EE}
+      IID 3
+      NAME "STE-000.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 35.50407422012789
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B79581F1-30E4-4335-87C2-902EDF36B2B2}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-000 [chan 2] 004.wav"
+      >
+    >
+    <ITEM
+      POSITION 209.16648534894921
+      SNAPOFFS 0
+      LENGTH 2.33405417311343
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.01 0 2 0 1 1
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8BB46B4C-A719-4B22-BAAC-2D2BD7240E31}
+      IID 3
+      NAME "STE-000.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 42.6606214920121
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2F4D5D8-83BD-4BDD-8EEE-622C742B0956}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-000 [chan 2] 004.wav"
+      >
+    >
+    <ITEM
+      POSITION 220.4240613321308
+      SNAPOFFS 0
+      LENGTH 1.59154559343384
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C8D83F34-4719-4879-AF68-5A378D3B4085}
+      IID 3
+      NAME "STE-000.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 61.11557273721122
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F604D2B0-0715-4834-84FC-6F53B052A947}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-000 [chan 2] 004.wav"
+      >
+    >
+  >
+  <TRACK {5337766D-23C7-485F-B5B7-30A9DD2FF7B5}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5337766D-23C7-485F-B5B7-30A9DD2FF7B5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 192.24761170463171
+      SNAPOFFS 0
+      LENGTH 2.16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A37ACC1E-D799-4D5E-9B6F-2C2EE51AF1AF}
+      IID 8
+      NAME "STE-001.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F221977E-BEAB-4546-A832-28C18B5B351B}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-001 [chan 2] 004.wav"
+      >
+    >
+    <ITEM
+      POSITION 196.9057467445964
+      SNAPOFFS 0
+      LENGTH 3.3931220528145
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.01 0 2 0 1 1
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7873D434-98B0-4833-9070-564D369D617F}
+      IID 8
+      NAME "STE-001.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 4.21352795887714
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7A5B6734-3F79-4972-9324-6A710143D66B}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-001 [chan 2] 004.wav"
+      >
+    >
+    <ITEM
+      POSITION 214.38648534892127
+      SNAPOFFS 0
+      LENGTH 0.92997519081555
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.01 0 2 0 1 1
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4C244C96-BED5-4B0C-B4A0-7ABF4F6B075C}
+      IID 8
+      NAME "STE-001.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 26.00764932330167
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {65BB8C27-A027-4358-B889-AAE68EE1C1EF}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-001 [chan 2] 004.wav"
+      >
+    >
+    <ITEM
+      POSITION 216.75892683817074
+      SNAPOFFS 0
+      LENGTH 1.18740406803596
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 2 0 0 0
+      FADEOUT 1.1 0.01 0.07984555722954 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F3B392FD-A707-4C00-A372-D434394B0931}
+      IID 8
+      NAME "STE-001.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 26.93762451411721
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1F8C0683-6A67-4A37-A988-097738CED48B}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-001 [chan 2] 004.wav"
+      >
+    >
+    <ITEM
+      POSITION 217.86648534890264
+      SNAPOFFS 0
+      LENGTH 1.20746245376554
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.07984555722954 2 1 0 1
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1847D9C1-0970-4F4B-B990-C64C6E2E9A75}
+      IID 8
+      NAME "STE-001.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 30.73253754623446
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA36AA73-969F-4508-86E2-606569C6C184}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-001 [chan 2] 004.wav"
+      >
+    >
+    <ITEM
+      POSITION 219.45648534887005
+      SNAPOFFS 0
+      LENGTH 1.06371076994219
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CF9FCEA2-F993-41BB-8742-5C004303DF68}
+      IID 8
+      NAME "STE-001.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 64.0062892300578
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B8DFF3B7-FC3C-4B6C-A884-8237EBE06E60}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-001 [chan 2] 004.wav"
+      >
+    >
+  >
+  <TRACK {F71C4066-641D-4C7E-AD30-2F9B11163709}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F71C4066-641D-4C7E-AD30-2F9B11163709}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      EGUID {A651C2BF-0357-4FC3-8F7D-497051D6B58E}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 224.21835043 1 0
+      PT 224.21845043 1.76939329 0
+      PT 233.81739293 1.76939329 0
+      PT 234.17319705 1.76939329 0
+      PT 236.74871827 1.76939329 0
+      PT 236.74881827 1 0
+    >
+    <ITEM
+      POSITION 224.21845042635687
+      SNAPOFFS 0
+      LENGTH 5.05326061798553
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.15304369204138 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B60080AA-BA85-4899-AC6D-5DA44EDCCEC2}
+      IID 116
+      NAME "STE-002.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 12.74100011802907
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {88780BA9-F764-477B-9A55-FD9F457F6DB5}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-002 [chan 2] 003.wav"
+      >
+    >
+    <ITEM
+      POSITION 226.67016047227662
+      SNAPOFFS 0
+      LENGTH 5.05326061798561
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 2.60155057204136 1 1 0 0
+      FADEOUT 1.1 0.01 0.02796344163253 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {70E1C88B-0E70-4005-8D9C-06FC6BC3C570}
+      IID 116
+      NAME "STE-002.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 12.74100011802907
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7C91DF2B-1612-4313-BE29-AC06DC963444}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-002 [chan 2] 003.wav"
+      >
+    >
+    <ITEM
+      POSITION 229.11866735224612
+      SNAPOFFS 0
+      LENGTH 5.05326061798559
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.15304369204138 1 1 0 0
+      FADEOUT 1.1 0.01 2.47647032163251 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7800A5CE-1699-450A-9CCD-A7490743AFD6}
+      IID 116
+      NAME "STE-002.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 12.74100011802907
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E646F3EB-B21C-41A9-B6A9-B1AAAFB34C03}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-002 [chan 2] 003.wav"
+      >
+    >
+    <ITEM
+      POSITION 231.69545764860231
+      SNAPOFFS 0
+      LENGTH 5.05326061798556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.02796344163253 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {831A578C-6E30-4A2C-85DE-B8CF1CFD3248}
+      IID 116
+      NAME "STE-002.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 12.74100011802907
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {73E97E7F-EFB2-4ACF-A2FB-212B534B7668}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-002 [chan 2] 003.wav"
+      >
+    >
+  >
+  <TRACK {4F02A17D-CB2E-4138-AF6D-60ECF70D6139}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4F02A17D-CB2E-4138-AF6D-60ECF70D6139}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 194.90588540723547
+      SNAPOFFS 0
+      LENGTH 1.53212248833017
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F56EB4F2-0AB7-4A0C-AE23-28F69FBE8AA2}
+      IID 64
+      NAME "STE-001.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 8.88336404291432
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A59383F0-A2DE-4B0F-8CB4-CD67CB120045}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-001 [chan 2] 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 200.61645870632492
+      SNAPOFFS 0
+      LENGTH 2.03002664257778
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {59BDEF45-CB38-4D7D-AA99-74BBDF7EA4EC}
+      IID 58
+      NAME "STE-000.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 15.14479508599163
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D9149E16-83C5-4AE8-BD6E-79A7FEF978AB}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-000 [chan 2] 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 206.59467969078105
+      SNAPOFFS 0
+      LENGTH 0.82451380591559
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C073F5FB-8DF7-4DA1-AAB2-F3E9C9C27B68}
+      IID 58
+      NAME "STE-000.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 23.0687372321381
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {85B8AA08-C2FD-472D-A16C-77927B6BFDC5}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-000 [chan 2] 005.wav"
+      >
+    >
+  >
+  <TRACK {E5C40664-9CC2-46C4-B3C1-ACBCDF0E1926}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E5C40664-9CC2-46C4-B3C1-ACBCDF0E1926}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 207.32768928154837
+      SNAPOFFS 0
+      LENGTH 1.32042576630755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B6EDD348-5E2D-4419-8935-6341BFE45338}
+      IID 58
+      NAME "STE-000.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 23.79831146583054
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {34ECC7E4-FF7D-4EB4-9187-6924351354BE}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-000 [chan 2] 005.wav"
+      >
+    >
+  >
+  <TRACK {601376CB-5ECA-46FC-8D0C-517ABFE76523}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {601376CB-5ECA-46FC-8D0C-517ABFE76523}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 211.46648534887936
+      SNAPOFFS 0
+      LENGTH 0.53920921084102
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {944EAE3C-FFB7-4B4A-8C8C-5867570178B3}
+      IID 64
+      NAME "STE-001.wav [chan 2]"
+      VOLPAN 1.035142 0 1 -1
+      SOFFS 25.70570340963855
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B375DC9E-5D5A-47A4-9A0B-5D3991BFD82C}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-001 [chan 2] 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 213.26369983516634
+      SNAPOFFS 0
+      LENGTH 0.5673357124443
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1C9E3D03-8874-4221-ACEA-088D8895B840}
+      IID 64
+      NAME "STE-001.wav [chan 2]"
+      VOLPAN 1.035142 0 1 -1
+      SOFFS 27.50291789589956
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF378B0C-BC6D-4694-9A15-564B71D055FD}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-001 [chan 2] 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 215.19852304365486
+      SNAPOFFS 0
+      LENGTH 1.76783364038096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5143B7D7-F81A-437F-8E2B-EDC8095AE394}
+      IID 64
+      NAME "STE-001.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 34.95891023853346
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A29E2D50-2542-41B2-A9B0-A6A47D478934}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-001 [chan 2] 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 228.74370141024701
+      SNAPOFFS 0
+      LENGTH 2.19770237280747
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 1.46392912992195 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F2880E4A-9951-4AFB-8E95-99BA4C5B2328}
+      IID 64
+      NAME "STE-001.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 38.42091778427951
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {536E3E78-7062-417F-AA8A-211330D0C72A}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-001 [chan 2] 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 229.47747465316206
+      SNAPOFFS 0
+      LENGTH 1.79748260256244
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 1.46392912992195 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {219D73BC-E897-4331-923C-71A0B463F2F9}
+      IID 64
+      NAME "STE-001.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 39.15722228325352
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {81ABF7BB-49A9-4159-BF15-66F0FD97EF4A}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-001 [chan 2] 005.wav"
+      >
+    >
+  >
+  <TRACK {E011F22B-A57A-4768-B94C-52000FDB9890}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E011F22B-A57A-4768-B94C-52000FDB9890}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 211.46368654759135
+      SNAPOFFS 0
+      LENGTH 0.56667478227209
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6937B89D-8C00-4904-B864-55AE0C050372}
+      IID 159
+      NAME "STE-001 [chan 2] 005.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 25.70023551402696
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {45D998D9-96D9-4C3B-9A68-5F86DB9E9568}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-001 [chan 2] 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 212.03036132990383
+      SNAPOFFS 0
+      LENGTH 0.71533633308198
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4EAB82F7-1F57-40AA-BF84-32CA7FADAE0B}
+      IID 159
+      NAME "STE-001 [chan 2] 005.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 26.26691029629906
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C046D61F-6C45-4EBB-BE50-95A2BD4F37C3}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-001 [chan 2] 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 212.7456976629328
+      SNAPOFFS 0
+      LENGTH 0.51800217223175
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {63B332A7-084C-4C12-8D2E-56A67BA5A84B}
+      IID 159
+      NAME "STE-001 [chan 2] 005.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 26.98224662938102
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8F2DCD90-59D5-4FD6-AE40-C793D830B24B}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-001 [chan 2] 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 213.26369983516634
+      SNAPOFFS 0
+      LENGTH 0.54266894233803
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {37C6EBC2-957D-4DE7-84C1-3AE82E3D671D}
+      IID 159
+      NAME "STE-001 [chan 2] 005.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 27.50024880161278
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A103F7E6-D9D8-4DD5-BCAF-12287BDA2D06}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-001 [chan 2] 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 213.80636877752841
+      SNAPOFFS 0
+      LENGTH 0.37217017772645
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2C8BA78C-9732-474C-91B6-82DDA9A91FB9}
+      IID 159
+      NAME "STE-001 [chan 2] 005.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 28.04291774395081
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B680CCFB-9050-4706-B5F0-DED853EE4BC4}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-001 [chan 2] 005.wav"
+      >
+    >
+  >
+  <TRACK {94B9CD9C-1A61-4F92-B299-04A209C62B8D}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {94B9CD9C-1A61-4F92-B299-04A209C62B8D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      EGUID {1A736864-39BA-4EFE-ABF3-D304C562417E}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 229.60708989 1 0
+      PT 229.6071899 0.74225247 0
+      PT 232.49381873 0.72494103 0
+      PT 232.87065177 0.22908669 0
+      PT 233.48571204 0.21379625 0
+      PT 233.51194911 0.21379625 0
+      PT 233.51204911 1 0
+    >
+    <ITEM
+      POSITION 229.60718989244197
+      SNAPOFFS 0
+      LENGTH 2.04073556315734
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.79682218464106 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.2717843488808 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {40B2FF85-C375-4F48-A838-426BA2859E64}
+      IID 64
+      NAME "STE-001.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 39.28440626652527
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {23E7AF6B-A512-4312-A2C6-6ECD8349D6F8}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-001 [chan 2] 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 231.37614110670984
+      SNAPOFFS 0
+      LENGTH 1.19287743436141
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.2717843488808 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DF7478A5-065A-46F3-AEBE-3AEB1F4C083C}
+      IID 58
+      NAME "STE-000.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 88.43047553019488
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {579482C7-DE60-4817-8B1E-520369A3C18B}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-000 [chan 2] 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 232.56901854113676
+      SNAPOFFS 0
+      LENGTH 0.94293056563856
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1F3184E4-23D4-48F2-943A-2629DE4CC74C}
+      IID 58
+      NAME "STE-000.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 89.62335296455629
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {59CB354B-85EB-4D51-B4AB-455833ECB96F}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-000 [chan 2] 005.wav"
+      >
+    >
+  >
+  <TRACK {5933F853-F5E5-4A80-A39D-E9B95D837284}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5933F853-F5E5-4A80-A39D-E9B95D837284}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 232.57765024818946
+      SNAPOFFS 0
+      LENGTH 0.94293056563856
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {071F86BF-6CEC-4A88-A68C-D096170D05BC}
+      IID 58
+      NAME "STE-000.wav [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 89.62335296455629
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D49238E3-7397-4863-B20C-1383A2ABF868}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/STE-000 [chan 2] 005.wav"
+      >
+    >
+  >
+  <TRACK {06EAF114-B26B-401B-8939-08C0CA39CD4F}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {06EAF114-B26B-401B-8939-08C0CA39CD4F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {131F837D-AF50-4C82-900B-988963A19EF4}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {131F837D-AF50-4C82-900B-988963A19EF4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 231.41577828919981
+      SNAPOFFS 0
+      LENGTH 6.65228389696483
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3631A514-5062-4145-B5F3-9E0AAC282ABC}
+      IID 142
+      NAME videoplayback.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {30994C92-7E5C-4000-A948-B0CBF477FCAF}
+      <SOURCE VIDEO
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/videoplayback.mp4"
+      >
+    >
+  >
+  <TRACK {D444458A-B1A8-4C06-A6DD-537E7C827F7C}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D444458A-B1A8-4C06-A6DD-537E7C827F7C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      EGUID {E341AB95-B715-4D6D-95B6-A873F90FBF3B}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 188.4192576 1 0
+      PT 188.4193576 0.01586323 0
+      PT 189.74957983 0.70858446 0
+      PT 225.82425838 0.70858446 0
+      PT 225.82435838 1 0
+    >
+    <ITEM
+      POSITION 188.41935759689659
+      SNAPOFFS 0
+      LENGTH 37.40490078757946
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.72995497734883 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {54E85CB4-0526-4632-A292-F83065034104}
+      IID 119
+      NAME car-interior-sound-246025.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.20046282228195
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D0FB19C7-72A1-42DB-A8F6-BC0CCE736B8B}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/car-interior-sound-246025.mp3" 1
+      >
+    >
+  >
+  <TRACK {38E62066-AD91-4EF2-A06F-CDF0545CCEDC}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {38E62066-AD91-4EF2-A06F-CDF0545CCEDC}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      EGUID {444A7134-27A0-40B9-9D3B-032F78C571C5}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 188.4192576 1 0
+      PT 188.4193576 0.2743642 0
+      PT 188.4193576 0.00345404 0
+      PT 190.6106339 0.29398654 0
+      PT 240.00727677 0.29398654 0
+      PT 240.00737677 1 0
+    >
+    <ITEM
+      POSITION 188.41935759689659
+      SNAPOFFS 0
+      LENGTH 33.32587619035587
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.61462464552557 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2E41641E-E63D-4097-A703-D24DF9CB4082}
+      IID 117
+      NAME city-slums-ambience-at-night-55182.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE271F4D-820F-462B-A767-ABE4AF01C7BF}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/city-slums-ambience-at-night-55182.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 221.76852841745131
+      SNAPOFFS 0
+      LENGTH 18.23874835284988
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 11.07034376728922 0 1 0 0 0
+      FADEOUT 1 1.97626200271543 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B3B3A023-66C5-4FEA-BA52-1E8FA30B1673}
+      IID 117
+      NAME city-slums-ambience-at-night-55182.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 29.52091671277147
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EAF02ACE-8548-4FAE-99AD-A227094A835E}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/city-slums-ambience-at-night-55182.mp3" 1
+      >
+    >
+  >
+  <TRACK {10621A11-3D60-4266-A138-E6786124320A}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {10621A11-3D60-4266-A138-E6786124320A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 222.57005090359598
+      SNAPOFFS 0
+      LENGTH 2.68849306669793
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E031A54E-0DF5-441D-90C4-2229C5810152}
+      IID 118
+      NAME car-accident-real-interior-46387.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.49305718476066
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5EF13617-4EF1-4677-9017-971D8D45C20F}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/car-accident-real-interior-46387.mp3" 1
+      >
+    >
+  >
+  <TRACK {C29BC3FB-86DA-4325-9E19-CE6A9B352975}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C29BC3FB-86DA-4325-9E19-CE6A9B352975}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 205.69447343121283
+      SNAPOFFS 0
+      LENGTH 4.50881251229794
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6F82F9C6-846F-4A8D-8DEA-2B5F00B038DF}
+      IID 120
+      NAME "indicator [chan 1].wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F51183DB-B4C9-4105-97E3-B12B9852FBC1}
+      <SOURCE WAVE
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/indicator [chan 1].wav"
+      >
+    >
+  >
+  <TRACK {FD30B129-F51C-4818-AAC6-A15F1DBE8039}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FD30B129-F51C-4818-AAC6-A15F1DBE8039}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 207.26136677665636
+      SNAPOFFS 0
+      LENGTH 10.20321679414852
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.18488969222369 0 1 0 0 0
+      FADEOUT 1 2.30395217932386 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9EEE0C5D-D6A1-4F3D-8F37-9314F61051FC}
+      IID 121
+      NAME sudden-electricity-failure-246015.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 8.16257343531881
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1DFCA127-AC9C-4616-98CC-B63BD1E17415}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/sudden-electricity-failure-246015.mp3" 1
+      >
+    >
+  >
+  <TRACK {072DEDA4-9935-4A73-962A-E29D1C2E9EBE}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {072DEDA4-9935-4A73-962A-E29D1C2E9EBE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 228.17708073894028
+      SNAPOFFS 0
+      LENGTH 3.20983729124691
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 3.20983729124691 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A0E4376E-AD1C-49E3-9C8D-75615DCFC16D}
+      IID 121
+      NAME sudden-electricity-failure-246015.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 8.16257343531881
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {28C26B88-A439-4116-A13F-713C277B0EC5}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/sudden-electricity-failure-246015.mp3" 1
+      >
+    >
+  >
+  <TRACK {17F7072F-04CD-42A0-A1B4-4AED23EBB857}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {17F7072F-04CD-42A0-A1B4-4AED23EBB857}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 219.02661084069405
+      SNAPOFFS 0
+      LENGTH 14.82012792314592
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 14.01481157876105 0 1 0 0 0
+      FADEOUT 1 0.71592158021798 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DDFD0690-41C7-4936-BF99-909CA2BD499C}
+      IID 125
+      NAME road-noise-1-72297.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 16.43700261590746
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3F8B215C-8B07-4C1C-BAD6-C240A53EC608}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/road-noise-1-72297.mp3" 1
+      >
+    >
+  >
+  <TRACK {D6A83BDB-995E-45A6-8A69-3C07A70D7F99}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D6A83BDB-995E-45A6-8A69-3C07A70D7F99}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      EGUID {E87BF3F4-FECA-4167-B5E3-D87CEA00702C}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 224.72003385 1 0
+      PT 224.72013385 0.57450346 0
+      PT 224.76022451 0.84166617 0
+      PT 226.35548673 0.87551951 0
+      PT 226.35558673 1 0
+    >
+    <ITEM
+      POSITION 224.72013384685852
+      SNAPOFFS 0
+      LENGTH 1.63535288557054
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.37600348518151 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {35857D61-0480-49D4-9648-96DD289308D8}
+      IID 158
+      NAME car-accident-real-interior-46387.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0BA4A2A2-1210-40C2-8E61-46096F69E43D}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/car-accident-real-interior-46387.mp3" 1
+      >
+    >
+  >
+  <TRACK {F0045F9F-1427-413D-8AA7-7F9D4FE9B0EF}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F0045F9F-1427-413D-8AA7-7F9D4FE9B0EF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      EGUID {89D0A226-71DA-417B-B9A5-E806B3997C74}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 221.61054121 1 0
+      PT 221.61064122 0.03304648 0
+      PT 222.61899868 0.44668359 0
+      PT 225.15021913 0.44668359 0
+      PT 225.15031913 1 0
+    >
+    <ITEM
+      POSITION 221.6106412144145
+      SNAPOFFS 0
+      LENGTH 3.53957791677138
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.26799057305328 0 1 0 0 0
+      FADEOUT 1 1.05774951735748 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {77B96DE6-EA98-4B9F-8758-2D3A28F7DC46}
+      IID 152
+      NAME car-crash-edit-two-92001.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.09438041656195
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B6CA16B2-F031-4214-ABF2-924848F95EF8}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/car-crash-edit-two-92001.mp3" 1
+      >
+    >
+  >
+  <TRACK {D484B09F-B68A-4535-887F-F5ADC1B5FB4B}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D484B09F-B68A-4535-887F-F5ADC1B5FB4B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 194.49123702000361
+      SNAPOFFS 0
+      LENGTH 3.00097916666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {41390C79-0E95-4AB1-BD03-A6FA8253CCCB}
+      IID 175
+      NAME an_ominous-crow-call-255173.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {361CA2D9-9746-4B87-97C8-6743BBA5E107}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/an_ominous-crow-call-255173.mp3" 1
+      >
+    >
+  >
+  <TRACK {4FF79CFE-8F00-45CF-8DE0-582C025D30B9}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4FF79CFE-8F00-45CF-8DE0-582C025D30B9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 192.24761170463171
+      SNAPOFFS 0
+      LENGTH 45.54559390112823
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 9.79716387692571 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {669EC703-FB62-4586-A424-6DAA2C540864}
+      IID 176
+      NAME evil-aura-219114.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {761AFBE0-03A7-4315-9505-EA591D0B4622}
+      <SOURCE MP3
+        FILE "C:\Users\diane\Documents\Git\IDM\Audio_assignment\Audio-Assignment\Scene 3\Scene 3\Media/evil-aura-219114.mp3" 1
+      >
+    >
+  >
+>
