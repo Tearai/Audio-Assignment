@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.26/win64" 1732703850
+<REAPER_PROJECT 0.1 "7.27/macOS-arm64" 1733315003
   <NOTES 0 2
   >
   RIPPLE 0
@@ -18,9 +18,9 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 58
-  ZOOM 3.93127009435577 0 0
-  VZOOMEX 0 139
+  CURSOR 48
+  ZOOM 27.12405675924778 823 0
+  VZOOMEX 0 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -112,7 +112,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -129,7 +129,7 @@
       LASTSEL 3
       DOCKED 0
       BYPASS 0 0 0
-      <VST "VST: ReaFir (FFT EQ+Dynamics Processor) (Cockos)" reafir.dll 0 "" 1919247986<56535472656672726561666972666674> ""
+      <VST "VST: ReaFir (FFT EQ+Dynamics Processor) (Cockos)" reafir.vst.dylib 0 "" 1919247986<56535472656672726561666972666674> ""
         cmZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAyD4AAAEAAAAAABAA
         mxIAAAlb9r85zunlOcOJMToSijE6B9NBOmjUQTrg66c6s++nOgnhlzqPiZg6ggY8uX86/X8fOv1/HzqrfRM6q30TOp4hOjqfITo6ggXdyp06/fCdOiJtYTqMags6jGoL
         On2SDTqBTk2tfjlQrX45N0H5OblL+Tkm3+E5/uzhOeW3ozmHV7U50py4OdwwrDncMKw5h+OeOYfjnjn8NvE5TYLzOZJt0TmYbdE5wL+AOYrZ4Dnk3+A50dvGOdfbxjnz
@@ -305,7 +305,7 @@
       FXID {92D93FD3-5011-4B47-A357-0E7EFBC21A68}
       WAK 0 0
       BYPASS 1 0 0
-      <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
+      <VST "VST: ReaPitch (Cockos)" reapitch.vst.dylib 0 "" 1919250531<56535472657063726561706974636800> ""
         Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
         AAAAAP////8BAAAALAAAAAIAAAAAAAAAUSABPrZmij8AAAAAAACAP8HKAT8lBgE/x0v3PgAAAD9vEgM/AAAAPwAAAD8AAIA/AAAAPw==
         AFByb2dyYW0gMQAQAAAA
@@ -314,18 +314,17 @@
       FXID {27946ED7-EEE2-44F1-A253-CD037A206424}
       WAK 0 0
       BYPASS 1 0 0
-      <VST "VST: ReaVerb (Cockos)" reaverb.dll 0 "" 1919252066<56535472657662726561766572620000> ""
-        YnZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAA4wAAAAEAAAAAABAA
-        AAAQwcybgD6/djg/AAAAAAAAgD8AAIA/AAAAPwAAgD8AAIA/AAAAQEZJTEVMRFIArwAAADwAAABDOlxVc2Vyc1xkaWFuZVxEb2N1bWVudHNcX1RSSU5JVFkgQ09MTEVH
-        RVxJRE1cQ1M3MDI4IC0gQXVkaW8sIFZpZGVvICYgU2Vuc29yIFRlY2hub2xvZ2llc1xBdWRpbyBUZWNobm9sb2dpZXNcQXNzaWdubWVudDJcUmVhcGVyIFByb2plY3Rz
-        XHNjZW5lIDEgdjJcTWVkaWFcaW1wdWxzZXNcR1BTLndhdgA=
+      <VST "VST: ReaVerb (Cockos)" reaverb.vst.dylib 0 "" 1919252066<56535472657662726561766572620000> ""
+        YnZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAkQAAAAEAAAAAABAA
+        AAAQwcybgD6/djg/AAAAAAAAgD8AAIA/AAAAPwAAgD8AAIA/AAAAQEZJTEVMRFIAXQAAADwAAAAvVXNlcnMvY2VzYXJlbWlsaW9wYXZvbi9Eb2N1bWVudHMvR2l0SHVi
+        L0F1ZGlvLUFzc2lnbm1lbnQvU2NlbmUgMS9NZWRpYS9pbXB1bHNlcy9HUFMud2F2AA==
         AFByb2dyYW0gMQAQAAAA
       >
       FLOATPOS 0 0 0 0
       FXID {94E5816C-323D-451D-BBAF-130DC3D8729A}
       WAK 0 0
       BYPASS 1 0 0
-      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729<56535472656571726561657100000000> ""
         cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
         IQAAAAUAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D+amZmZmZnpPwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
         8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D+amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
@@ -345,7 +344,7 @@
       FADEIN 2 0.01 0 2 0 1 1
       FADEOUT 5 0.01 0 5 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {02C6AB1B-2CDA-4539-A94D-68796A72D0EB}
       IID 2
       NAME "GPS.wav [chan 1]"
@@ -355,7 +354,7 @@
       CHANMODE 0
       GUID {F08129B8-218D-4170-9F82-B370338182B6}
       <SOURCE WAVE
-        FILE "Media\GPS [chan 1] 002.wav"
+        FILE "Media/GPS [chan 1] 002.wav"
       >
     >
     <ITEM
@@ -377,7 +376,7 @@
       CHANMODE 0
       GUID {991717DD-E253-42D9-B193-F1BC778D965E}
       <SOURCE WAVE
-        FILE "Media\GPS [chan 1] 002.wav"
+        FILE "Media/GPS [chan 1] 002.wav"
       >
     >
     <ITEM
@@ -399,7 +398,7 @@
       CHANMODE 0
       GUID {4EEB4388-AD21-4C1A-9D49-552FEDF823E6}
       <SOURCE WAVE
-        FILE "Media\GPS [chan 1] 002.wav"
+        FILE "Media/GPS [chan 1] 002.wav"
       >
     >
     <ITEM
@@ -421,7 +420,7 @@
       CHANMODE 0
       GUID {FB949731-9E62-4A50-B10F-F21467F4F2EB}
       <SOURCE WAVE
-        FILE "Media\GPS [chan 1] 002.wav"
+        FILE "Media/GPS [chan 1] 002.wav"
       >
     >
     <ITEM
@@ -443,7 +442,7 @@
       CHANMODE 0
       GUID {3444203C-FDF0-47EE-BE72-1D1789A70877}
       <SOURCE WAVE
-        FILE "Media\GPS [chan 1] 002.wav"
+        FILE "Media/GPS [chan 1] 002.wav"
       >
     >
   >
@@ -461,7 +460,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -478,7 +477,7 @@
       LASTSEL 0
       DOCKED 0
       BYPASS 0 0 0
-      <VST "VST: ReaFir (FFT EQ+Dynamics Processor) (Cockos)" reafir.dll 0 "" 1919247986<56535472656672726561666972666674> ""
+      <VST "VST: ReaFir (FFT EQ+Dynamics Processor) (Cockos)" reafir.vst.dylib 0 "" 1919247986<56535472656672726561666972666674> ""
         cmZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAHD8AAAEAAAAAABAA
         mxIAAC5eokY6xJCEOi1S4TotUuE64K30OuCt9DokFXU7JBV1OwJ0zToCdM06+WVNOvllTTojhg06G/AYOhvwGDr3RCs690QrOiZACDomQAg64AsSOuALEjpG4F86RuBf
         Ov0kyjmETsY5hE7GOXcX9jl3F/Y5q4qYOauKmDlD8i86Q/IvOpjZ9jmY2fY5/hESOvQckDr0HJA6sgvIOrILyDrtIiI67SIiOlWVBDpVlQQ6kvmeOZL5njkiwpQ5Qk2T
@@ -674,7 +673,7 @@
       CHANMODE 0
       GUID {9C562D30-4DD1-49BB-BFE0-B613805146EB}
       <SOURCE WAVE
-        FILE "Media\what_comeon [chan 1].wav"
+        FILE "Media/what_comeon [chan 1].wav"
       >
     >
     <ITEM
@@ -696,7 +695,7 @@
       CHANMODE 0
       GUID {4C1E16EC-36AA-4853-8FF1-B493CCA2EA8E}
       <SOURCE WAVE
-        FILE "Media\what_comeon [chan 1].wav"
+        FILE "Media/what_comeon [chan 1].wav"
       >
     >
   >
@@ -731,7 +730,7 @@
       LASTSEL 0
       DOCKED 0
       BYPASS 0 0 0
-      <VST "VST: ReaFir (FFT EQ+Dynamics Processor) (Cockos)" reafir.dll 0 "" 1919247986<56535472656672726561666972666674> ""
+      <VST "VST: ReaFir (FFT EQ+Dynamics Processor) (Cockos)" reafir.vst.dylib 0 "" 1919247986<56535472656672726561666972666674> ""
         cmZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAQT8AAAEAAAAAABAA
         mxIAAB82TOs5LMfrOcZ0mzrGdJs6ssODOrPDgzppPmU7aT5lO42nlDuNp5Q7ZecLO2XnCzttk4M7N9s8OzfbPDsCo+86AqPvOphg6zqYYOs6WoLLOlqCyzp5at06eWrd
         OiWxYTr29hA69vYQOnhV9Tl4VfU52gkCOtoJAjptRRI6bUUSOoIXSpj0OWSHHDpkhxw6yfw3Osn8Nzp6bgs6em4LOp/cQDqf3EA6SHINOkhyDTomXQQ6UB2/OVAdvzlA
@@ -927,7 +926,7 @@
       CHANMODE 0
       GUID {6CA8DD73-1F0D-47F1-ACD0-4A654AC6C339}
       <SOURCE WAVE
-        FILE "Media\indicator [chan 1].wav"
+        FILE "Media/indicator [chan 1].wav"
       >
     >
   >
@@ -975,7 +974,7 @@
       CHANMODE 0
       GUID {D565407E-49D7-497B-917E-5C3992997A38}
       <SOURCE WAVE
-        FILE "Media\creepy_howling.wav"
+        FILE "Media/creepy_howling.wav"
       >
     >
   >
@@ -1034,7 +1033,7 @@
       CHANMODE 0
       GUID {DD80A963-628A-43C4-9E04-F96B2C524B08}
       <SOURCE MP3
-        FILE "Media\city-slums-ambience-at-night-55182.mp3" 1
+        FILE "Media/city-slums-ambience-at-night-55182.mp3" 1
       >
     >
   >
@@ -1105,7 +1104,7 @@
       CHANMODE 0
       GUID {4DA3E15E-D526-4E0B-8CC2-44264CF9CF04}
       <SOURCE MP3
-        FILE "Media\road-noise-1-72297.mp3" 1
+        FILE "Media/road-noise-1-72297.mp3" 1
       >
     >
   >
@@ -1153,7 +1152,7 @@
       CHANMODE 0
       GUID {88754BAF-696C-4D90-BD90-20D05737A9A2}
       <SOURCE MP3
-        FILE "Media\concrete-footsteps-1-6265.mp3" 1
+        FILE "Media/concrete-footsteps-1-6265.mp3" 1
       >
     >
     <ITEM
@@ -1175,7 +1174,7 @@
       CHANMODE 0
       GUID {4C8753A7-80DE-4C46-A027-FAA0A9C5208C}
       <SOURCE MP3
-        FILE "Media\car-door-opening-and-closing-62604.mp3" 1
+        FILE "Media/car-door-opening-and-closing-62604.mp3" 1
       >
     >
     <ITEM
@@ -1197,7 +1196,103 @@
       CHANMODE 0
       GUID {4E2F16A2-DE62-4D33-BD86-449CA897646D}
       <SOURCE MP3
-        FILE "Media\interior-car-start-and-departure-16666.mp3" 1
+        FILE "Media/interior-car-start-and-departure-16666.mp3" 1
+      >
+    >
+  >
+  <TRACK {44C77BB6-90A2-2E42-980A-5C31B0661430}
+    NAME outside
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.1023765046481 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {44C77BB6-90A2-2E42-980A-5C31B0661430}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 11
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7A63180C-52BD-504D-9682-36969A3FBA1F}
+      IID 48
+      NAME rainy-day-in-town-with-birds-singing-194011.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B421F4B-0047-DB40-BFAD-BB8B719C21B6}
+      <SOURCE MP3
+        FILE "Media/rainy-day-in-town-with-birds-singing-194011.mp3" 1
+      >
+    >
+  >
+  <TRACK {D7E09789-12DD-FA44-8673-0DB7C3DD3D15}
+    NAME "outside_closed door"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.00013719917676 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D7E09789-12DD-FA44-8673-0DB7C3DD3D15}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 11
+      SNAPOFFS 0
+      LENGTH 30
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 5.44977538174467 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5541FD14-BD20-5242-B05A-CB38E97EFAE3}
+      IID 48
+      NAME rainy-day-in-town-with-birds-singing-194011.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 11
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0B2B51E2-3BEE-1D42-887C-85FEAD97F4F5}
+      <SOURCE MP3
+        FILE "Media/rainy-day-in-town-with-birds-singing-194011.mp3" 1
       >
     >
   >
