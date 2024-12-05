@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.27/win64" 1733352930
+<REAPER_PROJECT 0.1 "7.27/macOS-arm64" 1733357052
   <NOTES 0 2
   >
   RIPPLE 0
@@ -18,9 +18,9 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 82
-  ZOOM 12.89579702651089 0 0
-  VZOOMEX 1.94642854 71
+  CURSOR 104
+  ZOOM 5.38371253317797 22 0
+  VZOOMEX 1.94642854 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -129,7 +129,7 @@
       LASTSEL 0
       DOCKED 0
       BYPASS 0 0 0
-      <VST "VST: ReaFir (FFT EQ+Dynamics Processor) (Cockos)" reafir.dll 0 "" 1919247986<56535472656672726561666972666674> ""
+      <VST "VST: ReaFir (FFT EQ+Dynamics Processor) (Cockos)" reafir.vst.dylib 0 "" 1919247986<56535472656672726561666972666674> ""
         cmZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAA4D4AAAEAAAAAABAA
         mxIAAH/+jaE5OFLgOSrRnToq0Z06FnnuORZ57jnMBSE6zAUhOuRxGzrkcRs6dYlYOnWJWDrKdOI5XpWfOV6VnzkkkwE6JJMBOie65zknuuc5fU0SOn1NEjpGZ8E5RmfB
         OSBiITpJGZk5SRmZOZoXojmaF6I5CunmOQrp5jl/rjU6f641Or4vczq+L3M60yZSOko+cjpKPnI6iW20OYlttDlhGq85YRqvOb2pizm9qYs5J6uNOSerjTlIvuI5lr3K
@@ -324,7 +324,7 @@
       CHANMODE 0
       GUID {4AF07BD3-510B-4A23-9B77-0232CDCCE30F}
       <SOURCE WAVE
-        FILE "Media\STE-000 [chan 2] 002.wav"
+        FILE "Media/STE-000 [chan 2] 002.wav"
       >
     >
     <ITEM
@@ -346,7 +346,7 @@
       CHANMODE 0
       GUID {83A430FC-3A0E-463F-9AAB-EB36070FAAAB}
       <SOURCE WAVE
-        FILE "Media\STE-000-glued-01.wav"
+        FILE "Media/STE-000-glued-01.wav"
       >
     >
     <ITEM
@@ -368,7 +368,7 @@
       CHANMODE 0
       GUID {72A44DFB-2D11-43D7-9FFD-AEC2880D6379}
       <SOURCE WAVE
-        FILE "Media\STE-000 [chan 2] 002.wav"
+        FILE "Media/STE-000 [chan 2] 002.wav"
       >
     >
     <ITEM
@@ -390,7 +390,7 @@
       CHANMODE 0
       GUID {1E21D92C-CD95-4298-9AA3-56A927F72549}
       <SOURCE WAVE
-        FILE "Media\STE-000 [chan 2] 002.wav"
+        FILE "Media/STE-000 [chan 2] 002.wav"
       >
     >
     <ITEM
@@ -412,7 +412,7 @@
       CHANMODE 0
       GUID {8901FA02-B957-4EA3-B27A-E3F3CBE0F6B9}
       <SOURCE WAVE
-        FILE "Media\STE-000 [chan 2] 002.wav"
+        FILE "Media/STE-000 [chan 2] 002.wav"
       >
     >
   >
@@ -459,7 +459,7 @@
       LASTSEL 0
       DOCKED 0
       BYPASS 0 0 0
-      <VST "VST: ReaFir (FFT EQ+Dynamics Processor) (Cockos)" reafir.dll 0 "" 1919247986<56535472656672726561666972666674> ""
+      <VST "VST: ReaFir (FFT EQ+Dynamics Processor) (Cockos)" reafir.vst.dylib 0 "" 1919247986<56535472656672726561666972666674> ""
         cmZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAHj4AAAEAAAAAABAA
         mxIAAC9LQ8A59LkGOhmlwzoZpcM6H1cQOh9XEDpTsD86U7A/OpjQMTqY0DE6rBRYOqwUWDpSwBs6zBUPOswVDzpH3Ng5R9zYOS/Frjkvxa45xh0gOsYdIDqC5Ls5guS7
         OWn7yzkRasA5EWrAOYG6jTmBuo05TQuZOU0LmTml64I5peuCOQLzfTkC8305dDmHOS0tfDktLXw5+SCUOfkglDkBm4o5AZuKOWooTjlqKE45DwuKOQ8LijnKY4g5YF1X
@@ -652,7 +652,7 @@
       CHANMODE 0
       GUID {2E008EF3-7E37-4462-896F-5C7345E25589}
       <SOURCE WAVE
-        FILE "Media\STE-001 [chan 2] 002.wav"
+        FILE "Media/STE-001 [chan 2] 002.wav"
       >
     >
     <ITEM
@@ -674,7 +674,7 @@
       CHANMODE 0
       GUID {CAB042E9-957C-43BF-8333-67231BC9B369}
       <SOURCE WAVE
-        FILE "Media\STE-001 [chan 2] 002.wav"
+        FILE "Media/STE-001 [chan 2] 002.wav"
       >
     >
     <ITEM
@@ -696,7 +696,7 @@
       CHANMODE 0
       GUID {67B5F6B0-860C-4612-8870-10654AFA1964}
       <SOURCE WAVE
-        FILE "Media\STE-001 [chan 2] 002.wav"
+        FILE "Media/STE-001 [chan 2] 002.wav"
       >
     >
     <ITEM
@@ -718,7 +718,7 @@
       CHANMODE 0
       GUID {09E7A401-1C68-41B7-9DE9-19F269136D00}
       <SOURCE WAVE
-        FILE "Media\STE-001-glued.wav"
+        FILE "Media/STE-001-glued.wav"
       >
     >
     <ITEM
@@ -740,7 +740,7 @@
       CHANMODE 0
       GUID {F0B67A51-9550-4C33-B13A-B7DED5700AC5}
       <SOURCE WAVE
-        FILE "Media\STE-001 [chan 2] 002.wav"
+        FILE "Media/STE-001 [chan 2] 002.wav"
       >
     >
   >
@@ -788,7 +788,7 @@
       CHANMODE 0
       GUID {25B5E169-939C-41B1-B586-A73884583CCA}
       <SOURCE WAVE
-        FILE "Media\STE-002 [chan 2] 002.wav"
+        FILE "Media/STE-002 [chan 2] 002.wav"
       >
     >
   >
@@ -798,7 +798,7 @@
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 1 0 -1 -1 1
+    VOLPAN 3.44314810313221 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -806,7 +806,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -823,7 +823,7 @@
       LASTSEL 1
       DOCKED 0
       BYPASS 0 0 0
-      <VST "VST: ReaFir (FFT EQ+Dynamics Processor) (Cockos)" reafir.dll 0 "" 1919247986<56535472656672726561666972666674> ""
+      <VST "VST: ReaFir (FFT EQ+Dynamics Processor) (Cockos)" reafir.vst.dylib 0 "" 1919247986<56535472656672726561666972666674> ""
         cmZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAqT4AAAEAAAAAABAA
         mxIAACFjtRQ5FiF0OVxKiTlcSok58RjROPEY0TiimRk5opkZOR1TCjkdUwo5NgE9OTYBPTkeTDA584C6OPOAujiN1M84jdTPOPijtzj4o7c4cUEQOXFBEDkzhQc5M4UH
         OfTWwDjhl4U44ZeFOLH6gjix+oI4sBJiOLASYjipCVI4qQlSOPMWdzjzFnc4gVKdLEY4nSxGOFt3TDhbd0w4roBoOK6AaDiQjiU4kI4lOC6hATguoQE4zDgdOBmwejgZ
@@ -999,7 +999,7 @@
       FXID {25495D66-EB64-4F1A-AA44-32EDF7486014}
       WAK 0 0
       BYPASS 0 0 0
-      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729<56535472656571726561657100000000> ""
         cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
         IQAAAAUAAAAAAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D+amZmZmZnpPwEIAAAAAAAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAAAAAAAAAAAAQI9AAAAAAAAA
         8D8AAAAAAAAAQAEDAAAAAQAAAL3vSNFqFqBAAAAAAAAA8D+amZmZmZnpPwEEAAAAAQAAAKNiY3YmL4tAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
@@ -1030,7 +1030,7 @@
       CHANMODE 0
       GUID {8DD68C3B-B407-4825-9CCE-17E98429DF23}
       <SOURCE WAVE
-        FILE "Media\STE-000-glued.wav"
+        FILE "Media/STE-000-glued.wav"
       >
     >
     <ITEM
@@ -1052,7 +1052,7 @@
       CHANMODE 0
       GUID {3CBBED83-D767-401F-9CA2-D04180E7EAFD}
       <SOURCE WAVE
-        FILE "Media\STE-000-glued.wav"
+        FILE "Media/STE-000-glued.wav"
       >
     >
     <ITEM
@@ -1074,7 +1074,7 @@
       CHANMODE 0
       GUID {F1952E23-90AA-4BA0-BED8-DF55C539C5A3}
       <SOURCE WAVE
-        FILE "Media\STE-000-glued.wav"
+        FILE "Media/STE-000-glued.wav"
       >
     >
     <ITEM
@@ -1096,7 +1096,7 @@
       CHANMODE 0
       GUID {7C80BE94-1181-48C8-A278-09DB57F38C9E}
       <SOURCE WAVE
-        FILE "Media\STE-000-glued.wav"
+        FILE "Media/STE-000-glued.wav"
       >
     >
     <ITEM
@@ -1118,7 +1118,7 @@
       CHANMODE 0
       GUID {DEB3D8E1-7D3B-4116-918D-C6B430C6EF6B}
       <SOURCE WAVE
-        FILE "Media\STE-000-glued.wav"
+        FILE "Media/STE-000-glued.wav"
       >
     >
     <ITEM
@@ -1140,7 +1140,7 @@
       CHANMODE 0
       GUID {4F8360CD-9986-4E2B-87DD-6E63CF66C765}
       <SOURCE WAVE
-        FILE "Media\STE-000-glued.wav"
+        FILE "Media/STE-000-glued.wav"
       >
     >
     <ITEM
@@ -1162,7 +1162,7 @@
       CHANMODE 0
       GUID {841487A3-5533-4321-B614-A8F14C68F2F3}
       <SOURCE WAVE
-        FILE "Media\STE-000-glued.wav"
+        FILE "Media/STE-000-glued.wav"
       >
     >
   >
@@ -1172,7 +1172,7 @@
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 1 0 -1 -1 1
+    VOLPAN 0.99354619307878 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -1197,7 +1197,7 @@
       LASTSEL 1
       DOCKED 0
       BYPASS 0 0 0
-      <VST "VST: ReaFir (FFT EQ+Dynamics Processor) (Cockos)" reafir.dll 0 "" 1919247986<56535472656672726561666972666674> ""
+      <VST "VST: ReaFir (FFT EQ+Dynamics Processor) (Cockos)" reafir.vst.dylib 0 "" 1919247986<56535472656672726561666972666674> ""
         cmZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArj4AAAEAAAAAABAA
         mxIAADitIcY5R4E3OvRYxzr0WMc6uJdyOriXcjq1F7Y6tRe2OplniDqZZ4g6sCHpOrAh6Tri2Xc61DJJOtQySTr7wUY6+8FGOlSOIzpUjiM6SuqCOkrqgjqJx+A5icfg
         OS9s3TleeuY5XnrmOecClznnApc5/c66Of3Oujk4aJM5OGiTOV81AjpfNQI6ium8Oakw3TmpMN053xMEOt8TBDpouf05aLn9OUU/rTlFP605Iji6OSI4ujlPc6g54d7a
@@ -1373,7 +1373,7 @@
       FXID {54F42048-AECE-4094-BC34-23D7ADCA5161}
       WAK 0 0
       BYPASS 0 0 0
-      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729<56535472656571726561657100000000> ""
         cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
         IQAAAAUAAAAAAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D+amZmZmZnpPwEIAAAAAAAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAAAAAAAAAAAAQI9AAAAAAAAA
         8D8AAAAAAAAAQAEDAAAAAQAAAL3vSNFqFqBAAAAAAAAA8D+amZmZmZnpPwEEAAAAAQAAAKNiY3YmL4tAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
@@ -1404,7 +1404,7 @@
       CHANMODE 0
       GUID {04C8D68E-6D0C-419B-8B2E-169EB12BDB36}
       <SOURCE WAVE
-        FILE "Media\STE-001 [chan 1] 003.wav"
+        FILE "Media/STE-001 [chan 1] 003.wav"
       >
     >
     <ITEM
@@ -1426,7 +1426,7 @@
       CHANMODE 0
       GUID {7140C710-39C4-49C7-91D2-2E3AEB0763CB}
       <SOURCE WAVE
-        FILE "Media\STE-001 [chan 1] 003.wav"
+        FILE "Media/STE-001 [chan 1] 003.wav"
       >
     >
     <ITEM
@@ -1448,7 +1448,7 @@
       CHANMODE 0
       GUID {0FA575D1-F746-4C53-9739-1313936C3BCE}
       <SOURCE WAVE
-        FILE "Media\STE-001 [chan 1] 003.wav"
+        FILE "Media/STE-001 [chan 1] 003.wav"
       >
     >
   >
@@ -1458,7 +1458,7 @@
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 1 0 -1 -1 1
+    VOLPAN 2.18441731762383 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -1496,7 +1496,7 @@
       CHANMODE 0
       GUID {1159A6CD-1268-4600-AAD3-12EE053D815F}
       <SOURCE MP3
-        FILE "Media\ring-phone-190265.mp3" 1
+        FILE "Media/ring-phone-190265.mp3" 1
       >
     >
     <ITEM
@@ -1518,7 +1518,7 @@
       CHANMODE 0
       GUID {06BB3469-C3B7-43CA-AE95-ED55299551CE}
       <SOURCE MP3
-        FILE "Media\notification-pluck-on-slower-269285.mp3" 1
+        FILE "Media/notification-pluck-on-slower-269285.mp3" 1
       >
     >
   >
@@ -1566,7 +1566,7 @@
       CHANMODE 0
       GUID {A7AD9B83-205A-495A-80AE-45ECB53EFD1B}
       <SOURCE MP3
-        FILE "Media\interior-car-start-and-departure-16666.mp3" 1
+        FILE "Media/interior-car-start-and-departure-16666.mp3" 1
       >
     >
   >
@@ -1614,7 +1614,7 @@
       CHANMODE 0
       GUID {EA63F78D-FAAA-420A-9236-26C2CDCA7C9A}
       <SOURCE MP3
-        FILE "Media\ambience-wind-blowing-through-trees-01-186986.mp3" 1
+        FILE "Media/ambience-wind-blowing-through-trees-01-186986.mp3" 1
       >
     >
   >
@@ -1624,7 +1624,7 @@
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 0.1880988229377 0 -1 -1 1
+    VOLPAN 0.01418850870232 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -1662,7 +1662,7 @@
       CHANMODE 0
       GUID {0A0BFC7F-8DBB-4CAB-8A44-735774BF61CC}
       <SOURCE MP3
-        FILE "Media\leaves-rustling-236742.mp3" 1
+        FILE "Media/leaves-rustling-236742.mp3" 1
       >
     >
   >
@@ -1710,7 +1710,7 @@
       CHANMODE 0
       GUID {CC40865D-D1A2-4D81-91BF-57B834BFE5A2}
       <SOURCE MP3
-        FILE "Media\haunted-scene-ambience-250167.mp3" 1
+        FILE "Media/haunted-scene-ambience-250167.mp3" 1
       >
     >
     <ITEM
@@ -1732,7 +1732,7 @@
       CHANMODE 0
       GUID {42FE99CA-8D6A-46CA-9F25-708FDFD7D2A5}
       <SOURCE MP3
-        FILE "Media\haunted-scene-ambience-250167.mp3" 1
+        FILE "Media/haunted-scene-ambience-250167.mp3" 1
       >
     >
   >
@@ -1780,7 +1780,7 @@
       CHANMODE 0
       GUID {3850B570-9D70-472B-A2CA-9DB6515380C1}
       <SOURCE MP3
-        FILE "Media\an_ominous-crow-call-255173.mp3" 1
+        FILE "Media/an_ominous-crow-call-255173.mp3" 1
       >
     >
   >
@@ -1828,7 +1828,7 @@
       CHANMODE 0
       GUID {AEF378EF-ECA8-483C-B1DD-5694E59E6E3C}
       <SOURCE MP3
-        FILE "Media\creepy-whispering-6690.mp3" 1
+        FILE "Media/creepy-whispering-6690.mp3" 1
       >
     >
   >
@@ -1876,7 +1876,7 @@
       CHANMODE 0
       GUID {69272D5C-BBF7-4E13-8322-22FF257C9AC4}
       <SOURCE WAVE
-        FILE "Media\creepy_long.wav"
+        FILE "Media/creepy_long.wav"
       >
     >
   >
@@ -1924,7 +1924,7 @@
       CHANMODE 0
       GUID {C4534CD2-553F-47EE-8870-3FDF29C9CC9D}
       <SOURCE MP3
-        FILE "Media\forest-swamp-6751.mp3" 1
+        FILE "Media/forest-swamp-6751.mp3" 1
       >
     >
   >
@@ -1934,7 +1934,7 @@
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 0.02293171218527 0 -1 -1 1
+    VOLPAN 0.0043828152049 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -1972,7 +1972,7 @@
       CHANMODE 0
       GUID {29EFC2C0-EC18-4005-ABF0-69ADD80E9FCE}
       <SOURCE MP3
-        FILE "Media\horror-kick-247743.mp3" 1
+        FILE "Media/horror-kick-247743.mp3" 1
       >
     >
   >
@@ -1990,7 +1990,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -2020,7 +2020,7 @@
       CHANMODE 0
       GUID {64D1FF3C-80E8-4B90-92A8-730B4AFB92A2}
       <SOURCE WAVE
-        FILE "Media\creepy_howling.wav"
+        FILE "Media/creepy_howling.wav"
       >
     >
   >
@@ -2068,7 +2068,7 @@
       CHANMODE 0
       GUID {3ECACC7A-9F38-4154-91E0-F712DE9E80B4}
       <SOURCE WAVE
-        FILE "Media\high_low_pitch.wav"
+        FILE "Media/high_low_pitch.wav"
       >
     >
   >
@@ -2116,7 +2116,7 @@
       CHANMODE 0
       GUID {CF6A1843-12B4-446E-A21B-BBD38ABF1943}
       <SOURCE MP3
-        FILE "Media\haunted-background-260365.mp3" 1
+        FILE "Media/haunted-background-260365.mp3" 1
       >
     >
   >
@@ -2164,7 +2164,55 @@
       CHANMODE 0
       GUID {8E7736CF-E3D0-48EB-990B-2B062EE9E1E3}
       <SOURCE MP3
-        FILE "Media\four_voices_whispering-6943.mp3" 1
+        FILE "Media/four_voices_whispering-6943.mp3" 1
+      >
+    >
+  >
+  <TRACK {B8884D1C-85C9-864D-989C-3B7053907C0B}
+    NAME car_interior
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.17602108480493 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B8884D1C-85C9-864D-989C-3B7053907C0B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 108
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 10.73133156751949 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {CEFE4C8A-D13B-214A-8A2B-1FCB3616F2CE}
+      IID 155
+      NAME car-interior-sound-246025.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0FED8564-D187-C34D-A033-EB394E2B59FA}
+      <SOURCE MP3
+        FILE "Media/car-interior-sound-246025.mp3" 1
       >
     >
   >
